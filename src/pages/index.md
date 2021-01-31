@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: 这短短的一生，我们最终都会失去。你不妨大胆一些，爱一个人，攀一座山，追一个梦。  ----大鱼海棠
+title: 这短短的一生，我们最终都会失去。你不妨大胆一些。  ----大鱼海棠
 image: /img/img_4465.jpg
 heading: 最近动态
-subheading: 呀呀
+subheading: ""
 mainpitch:
   title: 得到的
   description: "   撒地方撒地方"
